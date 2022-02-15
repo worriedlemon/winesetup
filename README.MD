@@ -19,5 +19,7 @@ To start the installation you need to start the script **winesetup.sh** with roo
 The second script is used to configure your WINE prefix with necessary packages, such as *MS Corefonts* and *DXVK*.
 It is also should be marked as executable. You **SHOULD NOT** start the script with root privileges.
 
-`$ chmod a+x ./wineconfig.sh
-$ ./wineconfig.sh`
+```
+$ chmod a+x ./wineconfig.sh
+$ ./wineconfig.sh
+```
